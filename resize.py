@@ -11,6 +11,7 @@ from multiprocessing import Process
 src_dir= "/project/EvolvingAI/mnorouzz/Serengiti/SER/S6/"
 dst_dir= "/gscratch/mnorouzz/S6/"
 
+# add anything
 
 def divide(t,n,i):
     length=t/(n+0.0)
